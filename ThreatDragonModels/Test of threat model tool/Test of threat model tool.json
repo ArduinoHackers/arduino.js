@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test of threat model tool",
+    "owner": "dm",
+    "description": "test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "dm"
+  }
+}
